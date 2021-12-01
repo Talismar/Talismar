@@ -2,4 +2,4 @@
 
 
 
-- 🌱 I’m currently learning > Javascript, HTML, CSS
+- 🌱 I’m currently learning > Javascript, HTML, CSS, Python, C++
