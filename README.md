@@ -12,5 +12,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div><br/>
 
+## ⬛ Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talismar&show_icons=true&theme=highcontrast&hide_border=true&title_color=ffb110&icon_color=89ddff&text_color=ffffff&bg_color=050F2C,000,2e3440,0c100)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talismar&layout=compact&theme=highcontrast&hide_border=true&title_color=ffb110&icon_color=89ddff&text_color=ffffff&bg_color=050F2C,000,2e3440,0c100)](https://github.com/anuraghazra/github-readme-stats)
