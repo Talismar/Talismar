@@ -22,8 +22,8 @@
 
 <div style="width: 1000px" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talismar&show_icons=true&theme=highcontrast&hide_border=true&title_color=ffb110&icon_color=89ddff&text_color=ffffff&bg_color=050F2C,000,2e3440,0c100)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talismar&layout=compact&theme=highcontrast&hide_border=true&title_color=ffb110&icon_color=89ddff&text_color=ffffff&bg_color=050F2C,000,2e3440,0c100)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talismar&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talismar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
